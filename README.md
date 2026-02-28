@@ -12,7 +12,6 @@ I write tools that sit at the intersection of ancient languages and modern engin
 
 - **Cuneiform Learning Platform** — 30+ browser-based tools for ancient writing systems, 4,200+ signs, IOL training with 86 problems
 - **Hittite Lexicon Pipeline** — 7-source unified dictionary (31,000+ entries), automated scrapers & parsers
-- **Exam Prep Systems** — 21,000+ questions across SAT/TOEFL/IELTS/GRE/AP with a unified schema adapter layer
 - **Multi-AI Orchestration** — 13 AI services coordinated via local event bus, automated task dispatch, and agent-to-agent protocols
 - **Linguistic Analysis Tools** — corpus CLI, IE cognate explorer, multilingual dictionary query (53 dictionaries, 7M+ entries)
 
